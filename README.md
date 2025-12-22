@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff9c&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
@@ -19,11 +22,12 @@
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## `> whoami`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+whoami" alt="whoami"/>
 
 ```yaml
 name: Akash Nagar
@@ -37,9 +41,10 @@ I am a student from India preparing for a career in **Data Science & AI**. I enj
 
 <br clear="right"/>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> current_work.sh`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=350&height=30&lines=%3E+current_work.sh" alt="current_work"/>
 
 ```bash
 $ cat ~/projects/active.log
@@ -49,64 +54,78 @@ $ cat ~/projects/active.log
 [+] Building foundational ML knowledge
 ```
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> skills --current`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=320&height=30&lines=%3E+skills+--current" alt="skills"/>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0a0a0a)
-![SQL](https://img.shields.io/badge/SQL-00ff9c?style=for-the-badge&logo=postgresql&logoColor=0a0a0a)
-![C](https://img.shields.io/badge/C-00ff9c?style=for-the-badge&logo=c&logoColor=0a0a0a)
-![C++](https://img.shields.io/badge/C++-00ff9c?style=for-the-badge&logo=cplusplus&logoColor=0a0a0a)
+<a href="#"><img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0a0a0a&labelColor=0a0a0a" alt="Python"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-00ff9c?style=for-the-badge&logo=postgresql&logoColor=0a0a0a&labelColor=0a0a0a" alt="SQL"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C-00ff9c?style=for-the-badge&logo=c&logoColor=0a0a0a&labelColor=0a0a0a" alt="C"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00ff9c?style=for-the-badge&logo=cplusplus&logoColor=0a0a0a&labelColor=0a0a0a" alt="C++"/></a>
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a)
-![MongoDB](https://img.shields.io/badge/MongoDB_(Basics)-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=00ff9c)
+<a href="#"><img src="https://img.shields.io/badge/MySQL-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a" alt="MySQL"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB_(Basics)-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=00ff9c" alt="MongoDB"/></a>
 
 </td>
 <td valign="top" width="50%">
 
 ### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-00ff9c?style=for-the-badge&logo=pandas&logoColor=0a0a0a)
-![NumPy](https://img.shields.io/badge/NumPy-00ff9c?style=for-the-badge&logo=numpy&logoColor=0a0a0a)
-![EDA](https://img.shields.io/badge/EDA-00ff9c?style=for-the-badge&logo=chart.js&logoColor=0a0a0a)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00ff9c?style=for-the-badge&logo=databricks&logoColor=0a0a0a)
+<a href="#"><img src="https://img.shields.io/badge/Pandas-00ff9c?style=for-the-badge&logo=pandas&logoColor=0a0a0a&labelColor=0a0a0a" alt="Pandas"/></a>
+<a href="#"><img src="https://img.shields.io/badge/NumPy-00ff9c?style=for-the-badge&logo=numpy&logoColor=0a0a0a&labelColor=0a0a0a" alt="NumPy"/></a>
+<a href="#"><img src="https://img.shields.io/badge/EDA-00ff9c?style=for-the-badge&logo=chart.js&logoColor=0a0a0a&labelColor=0a0a0a" alt="EDA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Data_Cleaning-00ff9c?style=for-the-badge&logo=databricks&logoColor=0a0a0a&labelColor=0a0a0a" alt="Data Cleaning"/></a>
 
 ### Machine Learning (Basics)
-![scikit-learn](https://img.shields.io/badge/scikit--learn_(Basics)-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=00ff9c)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=00ff9c)
+<a href="#"><img src="https://img.shields.io/badge/scikit--learn_(Basics)-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=00ff9c" alt="scikit-learn"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Supervised_Learning-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=00ff9c" alt="Supervised Learning"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> tools --list`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=280&height=30&lines=%3E+tools+--list" alt="tools"/>
 
-![Git](https://img.shields.io/badge/Git-00ff9c?style=for-the-badge&logo=git&logoColor=0a0a0a)
-![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=0a0a0a)
-![Jupyter](https://img.shields.io/badge/Jupyter-00ff9c?style=for-the-badge&logo=jupyter&logoColor=0a0a0a)
-![VS Code](https://img.shields.io/badge/VS_Code-00ff9c?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a)
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,py,mysql&theme=dark" alt="Tools"/></a>
+</p>
 
----
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Git-00ff9c?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0a0a0a" alt="Git"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" alt="GitHub"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-00ff9c?style=for-the-badge&logo=jupyter&logoColor=0a0a0a&labelColor=0a0a0a" alt="Jupyter"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VS_Code-00ff9c?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a&labelColor=0a0a0a" alt="VS Code"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL_Workbench-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a" alt="MySQL Workbench"/></a>
+</p>
 
-## `> projects --in-progress`
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| SQL World Database Analysis | Querying and analyzing global data patterns | `[ IN PROGRESS ]` |
-| Python Data Analysis | EDA and visualization projects | `[ IN PROGRESS ]` |
-| Mini ML Learning Projects | Foundational machine learning implementations | `[ IN PROGRESS ]` |
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+projects+--in-progress" alt="projects"/>
 
----
+<div align="center">
 
-## `> trophies --achievements`
+| 🚀 Project | 📝 Description | 📊 Status |
+|:----------:|:---------------|:---------:|
+| <img src="https://img.shields.io/badge/SQL-00ff9c?style=flat-square&logo=postgresql&logoColor=0a0a0a"/> **World Database Analysis** | Querying and analyzing global data patterns | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
+| <img src="https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=0a0a0a"/> **Data Analysis** | EDA and visualization projects | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
+| <img src="https://img.shields.io/badge/ML-00ff9c?style=flat-square&logo=tensorflow&logoColor=0a0a0a"/> **Mini ML Projects** | Foundational machine learning implementations | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+trophies+--achievements" alt="trophies"/>
 
 <div align="center">
 
@@ -114,9 +133,10 @@ $ cat ~/projects/active.log
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> roadmap --future`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=320&height=30&lines=%3E+roadmap+--future" alt="roadmap"/>
 
 > **⚠ TRANSMISSION INCOMING:** The following represents my planned learning path and future goals.
 
@@ -172,21 +192,27 @@ $ cat ~/projects/active.log
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> planned_projects --future`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=400&height=30&lines=%3E+planned_projects+--future" alt="planned_projects"/>
 
 > **Note:** These are project ideas I plan to build as I advance my skills.
 
-| Project | Technologies | Status |
-|---------|-------------|--------|
-| Handwritten Word Recognition | CRNN (CNN + LSTM + CTC) | `[ PLANNED ]` |
-| Intelligent Chatbot | NLP, Transformer Models | `[ PLANNED ]` |
-| Hand Gesture Recognition | Computer Vision, Deep Learning | `[ PLANNED ]` |
+<div align="center">
 
----
+| 🎯 Project | 🛠️ Technologies | 📊 Status |
+|:----------:|:----------------|:---------:|
+| <img src="https://img.shields.io/badge/CV-00ff9c?style=flat-square&logo=opencv&logoColor=0a0a0a"/> **Handwritten Word Recognition** | CRNN (CNN + LSTM + CTC) | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
+| <img src="https://img.shields.io/badge/NLP-00ff9c?style=flat-square&logo=openai&logoColor=0a0a0a"/> **Intelligent Chatbot** | NLP, Transformer Models | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
+| <img src="https://img.shields.io/badge/DL-00ff9c?style=flat-square&logo=pytorch&logoColor=0a0a0a"/> **Hand Gesture Recognition** | Computer Vision, Deep Learning | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
 
-## `> stats --github`
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+stats+--github" alt="stats"/>
 
 <div align="center">
 
@@ -202,9 +228,10 @@ $ cat ~/projects/active.log
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> activity_graph --days=31`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+activity_graph+--days=31" alt="activity_graph"/>
 
 <div align="center">
 
@@ -212,9 +239,10 @@ $ cat ~/projects/active.log
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> contribution_snake.py`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+contribution_snake.py" alt="snake"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg" />
@@ -262,39 +290,63 @@ After adding, go to **Actions** tab and manually run the workflow once.
 
 </details>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## `> interests --personal`
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=340&height=30&lines=%3E+interests+--personal" alt="interests"/>
+
+<div align="center">
 
 ```
 ⚽ Football      |      🌍 Traveling      |      🚗 Cars
 ```
 
----
+</div>
 
-## `> connect --social`
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+connect+--social" alt="connect"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/akash-nagar-b06b20244/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:akashnagar97846@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/techakash32)
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/>
+</a>
+<a href="mailto:akashnagar97846@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/>
+</a>
+<a href="https://github.com/techakash32">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated Social Icons -->
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:akashnagar97846@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/techakash32">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48"/>
+</a>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "The goal is to turn data into information, and information into insight" ║
-║                                        — Carly Fiorina                       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=00FF9C&center=true&vCenter=true&width=600&lines=%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight%22;—+Carly+Fiorina" alt="Quote"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer"/>
+<br/>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0a0a0a&height=120&section=footer&animation=fadeIn"/>
 
 </div>
