@@ -19,7 +19,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%26+SQL+Enthusiast;AI+Learner;Problem+Solver" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 <!-- Animated Divider -->
@@ -295,10 +294,6 @@ After adding, go to **Actions** tab and manually run the workflow once.
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=340&height=30&lines=%3E+interests+--personal" alt="interests"/>
 # Galaxy Arcade Attack - README Section
-
-#Add this section to your existing README.md file. You can place it anywhere you like, but I recommend adding it after your "contribution_snake.py" section or before your "interests" section.
-
----
 
 ## 🎮 Galaxy Arcade Attack
 
