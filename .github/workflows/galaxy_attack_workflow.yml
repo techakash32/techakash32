@@ -1,52 +1,64 @@
-name: Generate Galaxy Arcade Attack
+name: Galaxy Stats Card Generator
 
 on:
-  # Run every 6 hours
   schedule:
-    - cron: "0 */6 * * *"
-  
-  # Allow manual trigger
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  
-  # Run on push to main (for testing)
   push:
-    branches:
-      - main
+    branches: [ main ]
+    paths:
+      - 'galaxy_stats.py'
+      - '.github/workflows/galaxy-stats.yml'
 
 jobs:
-  generate-game:
+  generate-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      
-      - name: Create output directory
-        run: mkdir -p output
-      
-      - name: Generate Galaxy Arcade Attack SVG
-        run: |
-          python galaxy_attack.py
-          mv galaxy_attack.svg output/galaxy_attack.svg
-      
-      - name: Verify SVG generated
-        run: |
-          if [ -f "output/galaxy_attack.svg" ]; then
-            echo "✅ SVG generated successfully"
-            ls -lh output/galaxy_attack.svg
-          else
-            echo "❌ SVG generation failed"
-            exit 1
-          fi
-      
-      - name: Commit and push if changed
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add output/galaxy_attack.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🎮 Update Galaxy Arcade Attack animation [automated]" && git push)
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Create output directory
+      run: mkdir -p output
+    
+    - name: Generate Galaxy Stats Card
+      env:
+        GITHUB_ACTOR: ${{ github.repository_owner }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python galaxy_stats.py
+    
+    - name: Commit and push generated card
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add output/galaxy_stats.svg
+        git diff --quiet && git diff --staged --quiet || \
+          git commit -m "📊 Update Galaxy Stats Card [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+        git push origin HEAD:${{ github.ref }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Display summary
+      run: |
+        echo "🎉 Galaxy Stats Card Updated!"
+        echo "📊 Next update: Tomorrow at 00:00 UTC"
+        echo "🔗 SVG URL: https://raw.githubusercontent.com/${{ github.repository }}/main/output/galaxy_stats.svg"
+        echo ""
+        echo "📋 To embed in your README.md:"
+        echo "![Galaxy Stats Card](https://raw.githubusercontent.com/${{ github.repository }}/main/output/galaxy_stats.svg)"
