@@ -1,9 +1,8 @@
-name: Galaxy Stats Card Generator
+name: Galaxy Stats Card
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -12,7 +11,7 @@ on:
       - '.github/workflows/galaxy-stats.yml'
 
 jobs:
-  generate-stats:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,45 +19,35 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
     
-    - name: Setup Python
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-        cache: 'pip'
     
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install -r requirements.txt
     
-    - name: Create output directory
-      run: mkdir -p output
-    
-    - name: Generate Galaxy Stats Card
+    - name: Generate stats card
       env:
         GITHUB_ACTOR: ${{ github.repository_owner }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python galaxy_stats.py
     
-    - name: Commit and push generated card
+    - name: Commit and push changes
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add output/galaxy_stats.svg
-        git diff --quiet && git diff --staged --quiet || \
-          git commit -m "📊 Update Galaxy Stats Card [$(date -u +'%Y-%m-%d %H:%M UTC')]"
-        git push origin HEAD:${{ github.ref }}
+        git commit -m "📊 Update Galaxy Stats Card [$(date -u +'%Y-%m-%d %H:%M UTC')]" || echo "No changes to commit"
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Display summary
       run: |
-        echo "🎉 Galaxy Stats Card Updated!"
-        echo "📊 Next update: Tomorrow at 00:00 UTC"
-        echo "🔗 SVG URL: https://raw.githubusercontent.com/${{ github.repository }}/main/output/galaxy_stats.svg"
+        echo "✅ Galaxy Stats Card updated successfully!"
         echo ""
-        echo "📋 To embed in your README.md:"
+        echo "📊 To embed in your README.md, add:"
         echo "![Galaxy Stats Card](https://raw.githubusercontent.com/${{ github.repository }}/main/output/galaxy_stats.svg)"
