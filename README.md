@@ -1,258 +1,352 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff9c&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003322,100:00ff9c&height=240&section=header&text=AKASH%20NAGAR&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20Agentic%20Systems&descSize=16&descColor=88ffcc&descAlignY=58"/>
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗    ███╗   ██╗ █████╗  ██████╗  █████╗ ██████╗  ║
-║  ██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║    ████╗  ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗ ║
-║  ███████║█████╔╝ ███████║███████╗███████║    ██╔██╗ ██║███████║██║  ███╗███████║██████╔╝ ║
-║  ██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║    ██║╚██╗██║██╔══██║██║   ██║██╔══██║██╔══██╗ ║
-║  ██║  ██║██║  ██╗██║  ██║███████║██║  ██║    ██║ ╚████║██║  ██║╚██████╔╝██║  ██║██║  ██║ ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Deep+Learning+Practitioner;Generative+AI+%26+LLM+Systems+Builder;Agentic+AI+%26+Workflow+Automation+Expert;Python+Developer+%7C+n8n+%7C+LangChain;%E2%9A%A1+Building+Real-World+AI+Systems+That+Solve+Problems" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%26+SQL+Enthusiast;AI+Learner;Problem+Solver" alt="Typing SVG" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+&nbsp;
+<a href="mailto:akashnagar97846@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+&nbsp;
+<a href="https://github.com/techakash32"><img src="https://img.shields.io/badge/GitHub-Follow-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+whoami" alt="whoami"/>
+## 🧠 `whoami`
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-name: Akash Nagar
-location: India 🇮🇳
-role: Aspiring Data Scientist
-focus: Python | SQL | AI/ML
-status: Learning & Building
+┌──────────────────────────────────────────────────────────┐
+│  name        : Akash Nagar                               │
+│  role        : AI/ML Engineer & Agentic AI Builder       │
+│  location    : India 🇮🇳                                  │
+│  status      : Shipping Real-World AI Systems 🚀          │
+│                                                          │
+│  specialization:                                         │
+│    ├── Machine Learning       ✅ Completed                │
+│    ├── Agentic AI (n8n)       ✅ Pro Level                │
+│    ├── LangGraph              ✅ Proficient               │
+│    ├── AWS + Data Pipelines   ✅ Hands-On                 │
+│    ├── Deep Learning          ⏳ 20% In Progress          │
+│    ├── Generative AI / GANs   ⏳ 25% In Progress          │
+│    └── NLP & Transformers     ⏳ In Progress              │
+│                                                          │
+│  passion  : Football ⚽ | Travel 🌍 | Cars 🚗             │
+└──────────────────────────────────────────────────────────┘
 ```
 
-I am a student from India preparing for a career in **Data Science & AI**. I enjoy working with data, databases, and problem-solving using **Python** and **SQL**. Currently practicing SQL with real-world datasets and doing Python data analysis.
+I'm an AI/ML Engineer from India who builds production-ready AI systems that actually ship. I've completed Machine Learning end-to-end and operate at a **pro level with Agentic AI** — automating complex workflows using n8n, LangGraph, and LLM APIs. I've built pipelines on AWS (S3 → Snowflake + data visualization), and I'm actively advancing in Deep Learning and Generative AI.
 
 <br clear="right"/>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=350&height=30&lines=%3E+current_work.sh" alt="current_work"/>
+---
+
+## ⚡ `current_progress.sh`
 
 ```bash
-$ cat ~/projects/active.log
+$ ./show_progress.sh --full
 
-[+] SQL practice using World DB and Employee DB
-[+] Python-based data analysis projects
-[+] Building foundational ML knowledge
+╔══════════════════════════════════════════════════════════════╗
+║                   LEARNING PROGRESS MAP                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  COMPLETED ✅                                                 ║
+║  ─────────────────────────────────────────────────────────   ║
+║  [██████████] Machine Learning          100% DONE            ║
+║  [██████████] Feature Engineering       100% DONE            ║
+║  [██████████] Data Cleaning & EDA       100% DONE            ║
+║  [██████████] Regression & Classification 100% DONE          ║
+║  [██████████] Ensemble Learning         100% DONE            ║
+║  [██████████] SQL & Database Operations 100% DONE            ║
+║  [██████████] Python for Data Science   100% DONE            ║
+║  [██████████] Agentic AI with n8n       100% PRO LEVEL ⭐    ║
+║  [██████████] LangGraph                 100% PROFICIENT ⭐   ║
+║  [██████████] AWS (S3, Snowflake, Viz)  100% HANDS-ON ⭐     ║
+║                                                              ║
+║  IN PROGRESS ⏳                                               ║
+║  ─────────────────────────────────────────────────────────   ║
+║  [██░░░░░░░░] Deep Learning             ~20% IN PROGRESS     ║
+║  [███░░░░░░░] Generative AI / GANs      ~25% IN PROGRESS     ║
+║  [██░░░░░░░░] NLP & Transformers        ~20% IN PROGRESS     ║
+║  [██░░░░░░░░] Computer Vision           ~15% IN PROGRESS     ║
+║                                                              ║
+║  QUEUED 🔲                                                    ║
+║  ─────────────────────────────────────────────────────────   ║
+║  [░░░░░░░░░░] MLOps & CI/CD             0%  QUEUED           ║
+║  [░░░░░░░░░░] Apache Spark / Kafka      0%  QUEUED           ║
+║  [░░░░░░░░░░] Databricks / Snowflake    0%  QUEUED           ║
+║                                                              ║
+║  OVERALL ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ~45%    ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=320&height=30&lines=%3E+skills+--current" alt="skills"/>
+---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## 🛠 `tech_stack --all`
 
-### Programming & Query Languages
-<a href="#"><img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0a0a0a&labelColor=0a0a0a" alt="Python"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-00ff9c?style=for-the-badge&logo=postgresql&logoColor=0a0a0a&labelColor=0a0a0a" alt="SQL"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C-00ff9c?style=for-the-badge&logo=c&logoColor=0a0a0a&labelColor=0a0a0a" alt="C"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-00ff9c?style=for-the-badge&logo=cplusplus&logoColor=0a0a0a&labelColor=0a0a0a" alt="C++"/></a>
-
-### Databases
-<a href="#"><img src="https://img.shields.io/badge/MySQL-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a" alt="MySQL"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB_(Basics)-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=00ff9c" alt="MongoDB"/></a>
-
-</td>
-<td valign="top" width="50%">
-
-### Data Analysis
-<a href="#"><img src="https://img.shields.io/badge/Pandas-00ff9c?style=for-the-badge&logo=pandas&logoColor=0a0a0a&labelColor=0a0a0a" alt="Pandas"/></a>
-<a href="#"><img src="https://img.shields.io/badge/NumPy-00ff9c?style=for-the-badge&logo=numpy&logoColor=0a0a0a&labelColor=0a0a0a" alt="NumPy"/></a>
-<a href="#"><img src="https://img.shields.io/badge/EDA-00ff9c?style=for-the-badge&logo=chart.js&logoColor=0a0a0a&labelColor=0a0a0a" alt="EDA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Data_Cleaning-00ff9c?style=for-the-badge&logo=databricks&logoColor=0a0a0a&labelColor=0a0a0a" alt="Data Cleaning"/></a>
-
-### Machine Learning (Basics)
-<a href="#"><img src="https://img.shields.io/badge/scikit--learn_(Basics)-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=00ff9c" alt="scikit-learn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Supervised_Learning-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=00ff9c" alt="Supervised Learning"/></a>
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=280&height=30&lines=%3E+tools+--list" alt="tools"/>
+### 🔤 Languages & Frameworks
 
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,py,mysql&theme=dark" alt="Tools"/></a>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,flask&theme=dark"/>
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Git-00ff9c?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0a0a0a" alt="Git"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Jupyter-00ff9c?style=for-the-badge&logo=jupyter&logoColor=0a0a0a&labelColor=0a0a0a" alt="Jupyter"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-00ff9c?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a&labelColor=0a0a0a" alt="VS Code"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL_Workbench-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a" alt="MySQL Workbench"/></a>
+<img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/C-00ff9c?style=for-the-badge&logo=c&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/SQL-00ff9c?style=for-the-badge&logo=postgresql&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Flask-00ff9c?style=for-the-badge&logo=flask&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/PyMySQL-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+### 🤖 AI / ML / DL / Agentic
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+projects+--in-progress" alt="projects"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-Pro_Level-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LangGraph-Proficient-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LangChain-AI_Framework-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Groq_API-LLM-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Grok_xAI-API-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Generative_AI-GANs-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/RAG_Systems-Vector_DB-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Twilio-Messaging-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+</p>
 
-| 🚀 Project | 📝 Description | 📊 Status |
-|:----------:|:---------------|:---------:|
-| <img src="https://img.shields.io/badge/SQL-00ff9c?style=flat-square&logo=postgresql&logoColor=0a0a0a"/> **World Database Analysis** | Querying and analyzing global data patterns | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
-| <img src="https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=0a0a0a"/> **Data Analysis** | EDA and visualization projects | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
-| <img src="https://img.shields.io/badge/ML-00ff9c?style=flat-square&logo=tensorflow&logoColor=0a0a0a"/> **Mini ML Projects** | Foundational machine learning implementations | ![Status](https://img.shields.io/badge/IN_PROGRESS-00ff9c?style=flat-square&labelColor=0a0a0a) |
+### 📊 Data Analysis
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-00ff9c?style=for-the-badge&logo=pandas&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/NumPy-00ff9c?style=for-the-badge&logo=numpy&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/EDA-00ff9c?style=for-the-badge&logo=chart.js&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-00ff9c?style=for-the-badge&logo=databricks&logoColor=0a0a0a&labelColor=0a0a0a"/>
+</p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+### 🗄 Databases
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+trophies+--achievements" alt="trophies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+</p>
 
-<div align="center">
+### ☁️ Cloud & Data Engineering
 
-<img src="https://github-profile-trophy.vercel.app/?username=techakash32&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS_S3-00ff9c?style=for-the-badge&logo=amazons3&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Snowflake-00ff9c?style=for-the-badge&logo=snowflake&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Data_Pipelines-00ff9c?style=for-the-badge&logo=apacheairflow&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Data_Visualization-00ff9c?style=for-the-badge&logo=chartdotjs&logoColor=0a0a0a&labelColor=0a0a0a"/>
+</p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+### 🧰 Tools & Platforms
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=320&height=30&lines=%3E+roadmap+--future" alt="roadmap"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark"/>
+</p>
 
-> **⚠ TRANSMISSION INCOMING:** The following represents my planned learning path and future goals.
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-00ff9c?style=for-the-badge&logo=jupyter&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-00ff9c?style=for-the-badge&logo=mysql&logoColor=0a0a0a&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/FastAPI-00ff9c?style=for-the-badge&logo=fastapi&logoColor=0a0a0a&labelColor=0a0a0a"/>
+</p>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  ░░██████╗░░░░██╗░░░██╗░██████╗░████████╗███████╗███╗░░░███╗░░░██████╗░░░█████╗░██████╗░░░  ║
-║  ░██╔════╝░░░░╚██╗░██╔╝██╔════╝░╚══██╔══╝██╔════╝████╗░████║░░██╔════╝░░██╔══██╗██╔══██╗░░  ║
-║  ░╚█████╗░░░░░░╚████╔╝░╚█████╗░░░░░██║░░░█████╗░░██╔████╔██║░░╚█████╗░░░███████║██║░░██║░░  ║
-║  ░░╚═══██╗░░░░░░╚██╔╝░░░╚═══██╗░░░░██║░░░██╔══╝░░██║╚██╔╝██║░░░╚═══██╗░░██╔══██║██║░░██║░░  ║
-║  ░██████╔╝██╗░░░░██║░░░██████╔╝░░░░██║░░░███████╗██║░╚═╝░██║░░██████╔╝░░██║░░██║██████╔╝░░  ║
-║  ░╚═════╝░╚═╝░░░░╚═╝░░░╚═════╝░░░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝░░╚═════╝░░░╚═╝░░╚═╝╚═════╝░░░  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                              ║
-║  [SECTOR_01] ▸▸ ARTIFICIAL INTELLIGENCE / MACHINE LEARNING                                  ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ Machine Learning ─────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Deep Learning ────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Natural Language Processing ──────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Generative AI ────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Agentic AI ───────────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-║  [SECTOR_02] ▸▸ BIG DATA ENGINEERING                                                        ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ Hadoop & HDFS ────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ MapReduce ────────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Apache Hive ──────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Apache Spark ─────────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-║  [SECTOR_03] ▸▸ DATA PLATFORMS                                                              ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ Databricks ───────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Snowflake ────────────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-║  [SECTOR_04] ▸▸ DATA PIPELINES                                                              ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ ETL Concepts ─────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Apache Kafka ─────────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-║  [SECTOR_05] ▸▸ CLOUD & BUSINESS INTELLIGENCE                                               ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ Amazon Web Services (AWS) ────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Power BI ─────────────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-║  [SECTOR_06] ▸▸ DATA ARCHITECTURE                                                           ║
-║  ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  ◈ Data Lakes ───────────────────────────────────────────────────────── [ QUEUED ]       ║
-║  ║  ◈ Data Warehousing ─────────────────────────────────────────────────── [ QUEUED ]       ║
-║                                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════╣
-║  STATUS: INITIALIZING LEARNING SEQUENCE... ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25%    ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=400&height=30&lines=%3E+planned_projects+--future" alt="planned_projects"/>
+## 🚀 `projects --completed`
 
-> **Note:** These are project ideas I plan to build as I advance my skills.
+> Real systems. Real automation. Real impact.
 
 <div align="center">
 
-| 🎯 Project | 🛠️ Technologies | 📊 Status |
-|:----------:|:----------------|:---------:|
-| <img src="https://img.shields.io/badge/CV-00ff9c?style=flat-square&logo=opencv&logoColor=0a0a0a"/> **Handwritten Word Recognition** | CRNN (CNN + LSTM + CTC) | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
-| <img src="https://img.shields.io/badge/NLP-00ff9c?style=flat-square&logo=openai&logoColor=0a0a0a"/> **Intelligent Chatbot** | NLP, Transformer Models | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
-| <img src="https://img.shields.io/badge/DL-00ff9c?style=flat-square&logo=pytorch&logoColor=0a0a0a"/> **Hand Gesture Recognition** | Computer Vision, Deep Learning | ![Status](https://img.shields.io/badge/PLANNED-1a1a1a?style=flat-square&labelColor=0a0a0a&color=00ff9c) |
+| 🏆 | Project | Description | Tech Stack | Status |
+|:--:|:--------|:------------|:-----------|:------:|
+| ⭐ | **English-to-SQL + LLM Report + WhatsApp Delivery** | Type plain English → get SQL query → LLM generates a full report → auto-delivered on WhatsApp | n8n, LLM, SQL, WhatsApp API | ✅ Done |
+| ⭐ | **AI + Humanizer LinkedIn Post Automator** | AI writes posts, humanizes content, attaches generated images, auto-publishes to LinkedIn | n8n, LLM, Image Gen, LinkedIn API | ✅ Done |
+| ⭐ | **WhatsApp Agent (Grok-3 / xAI)** | Conversational WhatsApp agent powered by Grok-3, built end-to-end in VS Code | Python, Grok API, WhatsApp | ✅ Done |
+| ⭐ | **AI Appointment Agent (WhatsApp)** | Fully autonomous appointment booking agent over WhatsApp | n8n, LLM, WhatsApp | ✅ Done |
+| 🔥 | **Review Analysis System** | Automated review scraping, sentiment analysis & reporting pipeline | n8n, LLM, Python | ✅ Done |
+| 🔥 | **AI Blog Generator → Email Delivery** | AI writes SEO blog posts and auto-sends to mailing list | n8n, LLM, Gmail API | ✅ Done |
+| 🔥 | **Lead Generation Engine** | Generated 50+ warm leads via smart WhatsApp outreach automation | n8n, WhatsApp API | ✅ Done |
+| 🔥 | **WhatsApp Messaging Web App** | Web app with contact form, instant WhatsApp delivery via Twilio + full message history dashboard | Python, Flask, Twilio | ✅ Done |
+| 💡 | **Python Interview Bot (Telegram)** | Automated Python interview Q&A bot with Groq API | n8n, Groq API, Telegram | ✅ Done |
+| 💡 | **WhatsApp Pharmacy Manager** | Full pharmacy management automation system | n8n, WhatsApp API | ✅ Done |
+| 💡 | **Gmail Auto Reply System** | Intelligent automated email response workflow | n8n, Gmail API | ✅ Done |
+| 💡 | **GitHub Daily Notes Automator** | n8n workflow that commits random notes.md files to GitHub daily | n8n, GitHub API | ✅ Done |
+| 📊 | **ML Models Collection** | Multiple ML algorithms & end-to-end implementations | Python, sklearn | ✅ Done |
+| 📊 | **AWS S3 → Snowflake Pipeline** | Built data ingestion pipeline + visualization dashboards on AWS | AWS S3, Snowflake | ✅ Done |
+| 🚀 | **Data Science Notes Repo** | Complete ML & DS structured learning notes | Jupyter, Python | 🚀 Active |
+| 🚀 | **Deep Learning Repository** | DL, NLP & CV implementations in progress | PyTorch, TF | 🚀 Active |
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+stats+--github" alt="stats"/>
+---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techakash32&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techakash32&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=ffffff" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techakash32&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="GitHub Streak"/>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+activity_graph+--days=31" alt="activity_graph"/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techakash32&bg_color=0a0a0a&color=00ff9c&line=00ff9c&point=ffffff&area_color=00ff9c&area=true&hide_border=true&custom_title=Contribution%20Activity%20(Last%2031%20Days)" alt="Activity Graph"/>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=380&height=30&lines=%3E+contribution_snake.py" alt="snake"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg" />
-</picture>
-
-> **Setup Required:** To enable the snake animation, add the workflow file below to your profile repository.
+## 🧠 `roadmap --learning`
 
 <details>
-<summary><b>Click to view GitHub Actions workflow setup</b></summary>
+<summary><b>🔥 Deep Learning</b></summary>
+
+- ANN · CNN · RNN · LSTM · Transformers
+- Backpropagation · Optimization Techniques
+- Batch Norm · Dropout · Regularization
+
+</details>
+
+<details>
+<summary><b>👁 Computer Vision</b></summary>
+
+- OpenCV · YOLO · Object Detection
+- Image Segmentation · Sports AI Projects
+- Real-Time CV Applications
+
+</details>
+
+<details>
+<summary><b>💬 NLP & LLMs</b></summary>
+
+- BERT · GPT · Attention Mechanisms
+- RAG Systems · AI Chatbots · AI Assistants
+- Fine-tuning & Prompt Engineering
+
+</details>
+
+<details>
+<summary><b>🤖 Agentic AI — ✅ Pro Level</b></summary>
+
+- n8n · LangChain · LangGraph ← **Already Proficient**
+- Multi-Agent Systems · Tool Use · Memory
+- Complex workflow automation with LLMs & APIs
+- Next: advanced multi-agent orchestration patterns
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Deployment — ✅ Hands-On</b></summary>
+
+- AWS S3 → Snowflake pipelines ← **Built & Deployed**
+- Data Visualization on AWS ← **Done**
+- Flask · Docker
+- Next: MLOps, CI/CD, advanced AWS services
+
+</details>
+
+<details>
+<summary><b>📦 Big Data & Platforms (Queued)</b></summary>
+
+- Hadoop · MapReduce · Apache Hive · Apache Spark
+- Databricks · Snowflake
+- ETL Concepts · Apache Kafka
+- Data Lakes · Data Warehousing
+- Power BI · AWS
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
+## 🎯 `planned_projects --upcoming`
+
+<div align="center">
+
+| 🎯 Project | 🛠️ Technologies | Status |
+|:-----------|:----------------|:------:|
+| **Handwritten Word Recognition** | CRNN (CNN + LSTM + CTC) | 🔲 Planned |
+| **Sports AI with Real-Time Tracking** | YOLO, OpenCV, CV | 🔲 Planned |
+| **Hand Gesture Recognition App** | Computer Vision, Deep Learning | 🔲 Planned |
+| **GAN Image Generator** | GANs, PyTorch | 🔲 Planned |
+| **Multi-Agent Research Assistant** | LangGraph, RAG, LLMs | 🔲 Planned |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
+## 🎯 `future_goals.txt`
+
+```text
+→ Become a Professional AI/ML Engineer
+→ Build Advanced Multi-Agent AI Systems
+→ Create Real-World Generative AI Products
+→ Deploy End-to-End MLOps Pipelines
+→ Launch an AI Startup Project
+→ Secure Remote AI/ML Opportunities Globally
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
+## 📈 `stats --github`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techakash32&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techakash32&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techakash32&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=techakash32&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
+## 📊 `activity_graph --days=31`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techakash32&bg_color=0a0a0a&color=00ff9c&line=00ff9c&point=ffffff&area_color=00ff9c&area=true&hide_border=true&custom_title=Contribution%20Activity%20(Last%2031%20Days)"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
+## 🐍 `contribution_snake.py`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg"/>
+</picture>
+
+<details>
+<summary><b>⚙️ Click to setup Snake Animation (GitHub Actions Workflow)</b></summary>
 
 Create `.github/workflows/snake.yml` in your `techakash32/techakash32` repository:
 
@@ -285,63 +379,56 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After adding, go to **Actions** tab and manually run the workflow once.
+After adding, go to **Actions** tab → run the workflow manually once.
 
 </details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
 ---
+
+## 🌐 `connect --social`
+
+<div align="center">
+
+<a href="https://github.com/techakash32">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
+</a>
+&nbsp;
+<a href="mailto:akashnagar97846@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/techakash32"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/></a>
+&nbsp;&nbsp;
+<a href="mailto:akashnagar97846@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+---
+
 <div align="center">
 
 ```
 ⚽ Football      |      🌍 Traveling      |      🚗 Cars
 ```
 
-</div>
+<br/>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00FF9C&vCenter=true&width=300&height=30&lines=%3E+connect+--social" alt="connect"/>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/>
-</a>
-<a href="mailto:akashnagar97846@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/>
-</a>
-<a href="https://github.com/techakash32">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<!-- Animated Social Icons -->
-<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:akashnagar97846@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/techakash32">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48"/>
-</a>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=00FF9C&center=true&vCenter=true&width=600&lines=%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight%22;—+Carly+Fiorina" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4500&pause=2000&color=00FF9C&center=true&vCenter=true&width=700&lines=%E2%9A%A1+%22Building+AI+Systems+That+Solve+Real+Problems%22+%E2%9A%A1;%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight%22;—+Carly+Fiorina" alt="Quote"/>
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0a0a0a&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003322,100:0a0a0a&height=140&section=footer&animation=fadeIn"/>
 
 </div>
