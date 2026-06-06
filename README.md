@@ -6,15 +6,6 @@
 
 <br/>
 
-<!-- Anime GIF: Goku powering up — symbolizes leveling up in AI/ML -->
-<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="120" title="Power Level: Over 9000"/>
-&nbsp;&nbsp;&nbsp;
-<!-- Anime GIF: Naruto running — never stop shipping -->
-<img src="https://media.giphy.com/media/bPTXcJiIzzWz6/giphy.gif" width="120" title="Always shipping"/>
-&nbsp;&nbsp;&nbsp;
-<!-- Anime GIF: Attack on Titan — breaking walls in AI -->
-<img src="https://media.giphy.com/media/5xtDarIBzE2dJpFEQvK/giphy.gif" width="120" title="Breaking barriers"/>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
