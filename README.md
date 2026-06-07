@@ -646,7 +646,7 @@ After adding, go to **Actions** tab → run the workflow manually once.
 <br/>
 
 <!-- Anime outro — One Piece Luffy determination -->
-<img src="https://media.giphy.com/media/A1SxC5HRrD3MY/giphy.gif" width="130" title="I will become the King of AI Pirates 🏴‍☠️"/>
+<img src="./assets/luffy.gif" width="130" alt="Luffy"/>
 
 <br/><br/>
 
