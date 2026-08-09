@@ -1,25 +1,26 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🎌 FULL-WIDTH ANIME HERO BANNER — top-to-bottom immersive strip -->
+<!-- GitHub strips real CSS background-image/position, so a full-width -->
+<!-- image row is the closest thing to a "background" a README can render. -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<table width="100%">
+<tr>
+<td width="25%"><img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="100%" alt="Gojo Satoru"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/rRQFsT5MwZAAAAAd/zenitsu-anime.gif" width="100%" alt="Zenitsu Agatsuma"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/MSPQ7dPS9KMAAAAd/uchiha-itachi-anime.gif" width="100%" alt="Itachi Uchiha"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="100%" alt="Naruto Uzumaki"/></td>
+</tr>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003322,100:00ff9c&height=240&section=header&text=AKASH%20NAGAR&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20Agentic%20Systems&descSize=16&descColor=88ffcc&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Deep+Learning+Practitioner;Generative+AI+%26+LLM+Systems+Builder;Agentic+AI+%26+Workflow+Automation+Expert;Python+Developer+%7C+n8n+%7C+LangChain;%E2%9A%A1+Building+Real-World+AI+Systems+That+Solve+Problems" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1200&color=88FFCC&center=true&vCenter=true&width=850&lines=%22Throughout+Heaven+and+Earth%2C+I+alone+am+the+Honored+One%22+—+Gojo;%22Set+your+heart+ablaze%22+—+Zenitsu;%22People+cannot+gain+strength+unless+they+overcome+pain%22+—+Itachi;%22Believe+it.%22+—+Naruto" alt="Anime Quotes"/>
+
 <br/>
-
-<!-- ⚡ ANIME SQUAD STRIP — Gojo · Zenitsu · Itachi · Naruto -->
-<p>
-<img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="150" alt="Gojo Satoru"/>
-&nbsp;
-<img src="https://media1.tenor.com/m/rRQFsT5MwZAAAAAd/zenitsu-anime.gif" width="150" alt="Zenitsu Agatsuma"/>
-&nbsp;
-<img src="https://media1.tenor.com/m/MSPQ7dPS9KMAAAAd/uchiha-itachi-anime.gif" width="150" alt="Itachi Uchiha"/>
-&nbsp;
-<img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="150" alt="Naruto Uzumaki"/>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1200&color=88FFCC&center=true&vCenter=true&width=750&lines=%22Throughout+Heaven+and+Earth%2C+I+alone+am+the+Honored+One%22+—+Gojo;%22Set+your+heart+ablaze%22+—+Zenitsu;%22People+cannot+gain+strength+unless+they+overcome+pain%22+—+Itachi;%22Believe+it.%22+—+Naruto" alt="Anime Quotes"/>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
 &nbsp;
@@ -431,6 +432,7 @@ $ ./show_progress.sh --full
 
 </div>
 
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ---
@@ -528,6 +530,10 @@ $ ./show_progress.sh --full
 → Launch an AI Startup Project
 → Secure Remote AI/ML Opportunities Globally
 ```
+
+<div align="center">
+<img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="100%" alt="Naruto Uzumaki — On My Way"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
@@ -658,12 +664,17 @@ After adding, go to **Actions** tab → run the workflow manually once.
 
 <br/>
 
-<!-- Anime outro strip — Naruto running into the sunset -->
-<img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="150" alt="Naruto"/>
-&nbsp;
-<img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="150" alt="Gojo"/>
+<!-- 🎌 Full-width anime outro strip — the whole squad, one last time -->
+<table width="100%">
+<tr>
+<td width="25%"><img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="100%" alt="Naruto Uzumaki"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="100%" alt="Gojo Satoru"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/rRQFsT5MwZAAAAAd/zenitsu-anime.gif" width="100%" alt="Zenitsu Agatsuma"/></td>
+<td width="25%"><img src="https://media1.tenor.com/m/MSPQ7dPS9KMAAAAd/uchiha-itachi-anime.gif" width="100%" alt="Itachi Uchiha"/></td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4500&pause=2000&color=00FF9C&center=true&vCenter=true&width=700&lines=%E2%9A%A1+%22Building+AI+Systems+That+Solve+Real+Problems%22+%E2%9A%A1;%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight%22;—+Carly+Fiorina" alt="Quote"/>
 
