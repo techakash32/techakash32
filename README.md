@@ -6,6 +6,19 @@
 
 <br/>
 
+<!-- ⚡ ANIME SQUAD STRIP — Gojo · Zenitsu · Itachi · Naruto -->
+<p>
+<img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="150" alt="Gojo Satoru"/>
+&nbsp;
+<img src="https://media1.tenor.com/m/rRQFsT5MwZAAAAAd/zenitsu-anime.gif" width="150" alt="Zenitsu Agatsuma"/>
+&nbsp;
+<img src="https://media1.tenor.com/m/MSPQ7dPS9KMAAAAd/uchiha-itachi-anime.gif" width="150" alt="Itachi Uchiha"/>
+&nbsp;
+<img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="150" alt="Naruto Uzumaki"/>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1200&color=88FFCC&center=true&vCenter=true&width=750&lines=%22Throughout+Heaven+and+Earth%2C+I+alone+am+the+Honored+One%22+—+Gojo;%22Set+your+heart+ablaze%22+—+Zenitsu;%22People+cannot+gain+strength+unless+they+overcome+pain%22+—+Itachi;%22Believe+it.%22+—+Naruto" alt="Anime Quotes"/>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
@@ -42,7 +55,7 @@
 │    ├── Generative AI / GANs   ⏳ 25% In Progress          │
 │    └── NLP & Transformers     ⏳ In Progress              │
 │                                                          │
-│  passion  : Football ⚽ | Travel 🌍 | Cars 🚗             │
+│  passion  : Football ⚽ | Travel 🌍 | Cars 🚗 | Anime 🎌  │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -640,13 +653,15 @@ After adding, go to **Actions** tab → run the workflow manually once.
 <div align="center">
 
 ```
-⚽ Football      |      🌍 Traveling      |      🚗 Cars
+⚽ Football      |      🌍 Traveling      |      🚗 Cars      |      🎌 Anime
 ```
 
 <br/>
 
-<!-- Anime outro — One Piece Luffy determination -->
-<img src="./assets/luffy.gif" width="130" alt="Luffy"/>
+<!-- Anime outro strip — Naruto running into the sunset -->
+<img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="150" alt="Naruto"/>
+&nbsp;
+<img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="150" alt="Gojo"/>
 
 <br/><br/>
 
