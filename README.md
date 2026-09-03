@@ -5,14 +5,6 @@
 <!-- GitHub strips real CSS background-image/position, so a full-width -->
 <!-- image row is the closest thing to a "background" a README can render. -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="25%"><img src="https://media1.tenor.com/m/p-4dyarW_q4AAAAd/anime-gojo-satoru.gif" width="100%" alt="Gojo Satoru"/></td>
-<td width="25%"><img src="https://media1.tenor.com/m/rRQFsT5MwZAAAAAd/zenitsu-anime.gif" width="100%" alt="Zenitsu Agatsuma"/></td>
-<td width="25%"><img src="https://media1.tenor.com/m/MSPQ7dPS9KMAAAAd/uchiha-itachi-anime.gif" width="100%" alt="Itachi Uchiha"/></td>
-<td width="25%"><img src="https://media1.tenor.com/m/vL8bw1fFzwIAAAAd/naruto-anime.gif" width="100%" alt="Naruto Uzumaki"/></td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003322,100:00ff9c&height=240&section=header&text=AKASH%20NAGAR&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20Agentic%20Systems&descSize=16&descColor=88ffcc&descAlignY=58"/>
 
