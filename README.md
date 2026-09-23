@@ -6,21 +6,21 @@
 <!-- image row is the closest thing to a "background" a README can render. -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003322,100:00ff9c&height=240&section=header&text=AKASH%20NAGAR&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20Agentic%20Systems&descSize=16&descColor=88ffcc&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003322,100:00ff9c&height=240&section=header&text=AKASH%20NAGAR&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Polymath%20%7C%20Generative%20AI%20Architect%20%7C%20Agentic%20Systems%20Orchestrator&descSize=16&descColor=88ffcc&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Deep+Learning+Practitioner;Generative+AI+%26+LLM+Systems+Builder;Agentic+AI+%26+Workflow+Automation+Expert;Python+Developer+%7C+n8n+%7C+LangChain;%E2%9A%A1+Building+Real-World+AI+Systems+That+Solve+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Sesquipedalian+AI%2FML+Engineer+%7C+Deep+Learning+Practitioner;Generative+AI+%26+LLM+Systems+Architect;Agentic+AI+%26+Workflow+Automation+Autodidact;Python+Developer+%7C+n8n+%7C+LangChain;%E2%9A%A1+Fabricating+Real-World+AI+Systems+That+Resolve+Conundrums" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1200&color=88FFCC&center=true&vCenter=true&width=850&lines=%22Throughout+Heaven+and+Earth%2C+I+alone+am+the+Honored+One%22+—+Gojo;%22Set+your+heart+ablaze%22+—+Zenitsu;%22People+cannot+gain+strength+unless+they+overcome+pain%22+—+Itachi;%22Believe+it.%22+—+Naruto" alt="Anime Quotes"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=techakash32&style=for-the-badge&color=00ff9c&labelColor=0a0a0a&label=PERSPICACIOUS+SPECTATORS"/>
 &nbsp;
-<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+<a href="https://www.linkedin.com/in/akash-nagar-b06b20244/"><img src="https://img.shields.io/badge/LinkedIn-Connexion-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0a0a0a"/></a>
 &nbsp;
-<a href="mailto:akashnagar97846@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+<a href="mailto:akashnagar97846@gmail.com"><img src="https://img.shields.io/badge/Gmail-Communication-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0a0a0a"/></a>
 &nbsp;
-<a href="https://github.com/techakash32"><img src="https://img.shields.io/badge/GitHub-Follow-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a"/></a>
+<a href="https://github.com/techakash32"><img src="https://img.shields.io/badge/GitHub-Subscription-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0a0a"/></a>
 
 </div>
 
@@ -28,31 +28,31 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 `quisnam`
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
 ┌──────────────────────────────────────────────────────────┐
-│  name        : Akash Nagar                               │
-│  role        : AI/ML Engineer & Agentic AI Builder       │
-│  location    : India 🇮🇳                                  │
-│  status      : Shipping Real-World AI Systems 🚀          │
+│  nomen       : Akash Nagar                               │
+│  munus       : AI/ML Engineer & Agentic AI Architect     │
+│  locus       : India 🇮🇳                                  │
+│  status      : Fabricating Real-World AI Systems 🚀       │
 │                                                          │
-│  specialization:                                         │
-│    ├── Machine Learning       ✅ Completed                │
-│    ├── Agentic AI (n8n)       ✅ Pro Level                │
+│  specializatio:                                          │
+│    ├── Machine Learning       ✅ Consummated              │
+│    ├── Agentic AI (n8n)       ✅ Preternatural            │
 │    ├── LangGraph              ✅ Proficient               │
-│    ├── AWS + Data Pipelines   ✅ Hands-On                 │
-│    ├── Deep Learning          ⏳ 20% In Progress          │
-│    ├── Generative AI / GANs   ⏳ 25% In Progress          │
-│    └── NLP & Transformers     ⏳ In Progress              │
+│    ├── AWS + Data Pipelines   ✅ Empirically Hands-On     │
+│    ├── Deep Learning          ⏳ 20% Inchoate             │
+│    ├── Generative AI / GANs   ⏳ 25% Inchoate             │
+│    └── NLP & Transformers     ⏳ Inchoate                 │
 │                                                          │
-│  passion  : Football ⚽ | Travel 🌍 | Cars 🚗 | Anime 🎌  │
+│  passion  : Football ⚽ | Peregrination 🌍 | Cars 🚗 | Anime 🎌 │
 └──────────────────────────────────────────────────────────┘
 ```
 
-I'm an AI/ML Engineer from India who builds production-ready AI systems that actually ship. I've completed Machine Learning end-to-end and operate at a **pro level with Agentic AI** — automating complex workflows using n8n, LangGraph, and LLM APIs. I've built pipelines on AWS (S3 → Snowflake + data visualization), and I'm actively advancing in Deep Learning and Generative AI.
+I am an AI/ML engineer hailing from India who fabricates production-ready AI systems that actually eventuate. I have consummated Machine Learning end-to-end and operate at a preternatural echelon with Agentic AI — automating labyrinthine workflows via n8n, LangGraph, and LLM APIs. I have constructed pipelines on AWS (S3 → Snowflake + data visualization), and I am indefatigably advancing in Deep Learning and Generative AI.
 
 <br clear="right"/>
 
@@ -60,19 +60,19 @@ I'm an AI/ML Engineer from India who builds production-ready AI systems that act
 
 ---
 
-## 🔥 `flagship_projects --priority` *(Must See)*
+## 🔥 `praecipua_operum --prioritas` *(Indubitably Inspect)*
 
-> These are my most complex, end-to-end production systems — each one showcases a different dimension of my engineering depth.
+> These are my most labyrinthine, end-to-end production systems — each one evinces a distinct facet of my engineering profundity.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1200&color=FF6B35&center=true&vCenter=true&width=800&lines=🏆+FLAGSHIP+PROJECTS+—+PRODUCTION+GRADE+SYSTEMS;These+are+NOT+tutorials.+These+are+real+deployments.;Click+each+project+to+explore+the+full+architecture." alt="Flagship"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1200&color=FF6B35&center=true&vCenter=true&width=800&lines=🏆+PRAECIPUA+OPERUM+—+PRODUCTION+GRADE+SYSTEMS;These+are+NOT+tutorials.+These+are+real+deployments.;Click+each+project+to+explore+the+full+architecture." alt="Flagship"/>
 
 </div>
 
 ---
 
-### 🥇 `[1]` English-to-SQL + LLM Report + WhatsApp Delivery
+### 🥇 `[1]` Anglicē-ad-SQL + LLM Relatio + WhatsApp Traditio
 
 <table>
 <tr>
@@ -80,7 +80,7 @@ I'm an AI/ML Engineer from India who builds production-ready AI systems that act
 
 **The full stack, zero-touch analytics pipeline.**
 
-Type a plain English question → system auto-generates the SQL → executes it → feeds results to an LLM to write a human-readable business report → auto-delivers the report directly to your WhatsApp. No dashboards. No analysts. Just answers.
+Percuss a plain English interrogation → system auto-generates SQL → executes it → feeds results to an LLM to compose a human-readable business report → auto-delivers the report directly to WhatsApp. No dashboards. No analysts. Just resolutions.
 
 **Architecture Flow:**
 ```
@@ -99,7 +99,7 @@ LLM Report Generator
 WhatsApp API Delivery ──► User
 ```
 
-**Impact:** Replaces an entire analytics workflow. Any non-technical user can query a database via WhatsApp in natural language.
+**Impact:** Replaces an entire analytics workflow. Any non-technical user can interrogate a database via WhatsApp in natural language.
 
 </td>
 <td width="40%" align="center">
@@ -108,7 +108,7 @@ WhatsApp API Delivery ──► User
 
 <br/>
 
-![n8n](https://img.shields.io/badge/n8n-Pro_Level-00ff9c?style=flat-square&labelColor=0a0a0a)
+![n8n](https://img.shields.io/badge/n8n-Preternatural-00ff9c?style=flat-square&labelColor=0a0a0a)
 ![LLM](https://img.shields.io/badge/LLM-Integrated-00ff9c?style=flat-square&labelColor=0a0a0a)
 ![SQL](https://img.shields.io/badge/SQL-Auto_Generated-00ff9c?style=flat-square&labelColor=0a0a0a)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-API-00ff9c?style=flat-square&labelColor=0a0a0a)
@@ -169,7 +169,7 @@ A production-grade e-commerce web application with a **dedicated analytics tab**
 
 **Enterprise-grade cloud data engineering pipeline, end-to-end.**
 
-A production data pipeline built entirely on AWS: raw dataset uploaded to **S3**, transformed and loaded into **Snowflake** via AWS Glue/Lambda, then visualized live in a **Streamlit dashboard** connected directly to Snowflake — all streaming in real time.
+A production data pipeline constructed entirely on AWS: raw dataset uploaded to **S3**, transformed and loaded into **Snowflake** via AWS Glue/Lambda, then visualized live in a **Streamlit dashboard** connected directly to Snowflake — all streaming in real time.
 
 **Pipeline Architecture:**
 ```
@@ -188,7 +188,7 @@ Streamlit Dashboard
 Live Charts · KPIs · Filters
 ```
 
-**Highlights:** Demonstrates full cloud data engineering stack. From raw CSV to interactive dashboard — zero local infra needed.
+**Highlights:** Demonstrates full cloud data engineering stack. From raw CSV to interactive dashboard — zero local infrastructure required.
 
 </td>
 <td width="40%" align="center">
@@ -270,42 +270,42 @@ Docker Container → Cloud Deployment
 
 ---
 
-## ⚡ `current_progress.sh`
+## ⚡ `progressus_currentis.sh`
 
 ```bash
 $ ./show_progress.sh --full
 
 ╔══════════════════════════════════════════════════════════════╗
-║                   LEARNING PROGRESS MAP                      ║
+║                ERUDITIONIS PROGRESSUS CHART                  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  COMPLETED ✅                                                 ║
+║  CONSUMMATED ✅                                               ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  [██████████] Machine Learning          100% DONE            ║
-║  [██████████] Feature Engineering       100% DONE            ║
-║  [██████████] Data Cleaning & EDA       100% DONE            ║
-║  [██████████] Regression & Classification 100% DONE          ║
-║  [██████████] Ensemble Learning         100% DONE            ║
-║  [██████████] SQL & Database Operations 100% DONE            ║
-║  [██████████] Python for Data Science   100% DONE            ║
-║  [██████████] Agentic AI with n8n       100% PRO LEVEL ⭐    ║
+║  [██████████] Machine Learning          100% CONSUMMATED     ║
+║  [██████████] Feature Engineering       100% CONSUMMATED     ║
+║  [██████████] Data Cleaning & EDA       100% CONSUMMATED     ║
+║  [██████████] Regression & Classification 100% CONSUMMATED   ║
+║  [██████████] Ensemble Learning         100% CONSUMMATED     ║
+║  [██████████] SQL & Database Operations 100% CONSUMMATED     ║
+║  [██████████] Python for Data Science   100% CONSUMMATED     ║
+║  [██████████] Agentic AI with n8n       100% PRETERNATURAL ⭐║
 ║  [██████████] LangGraph                 100% PROFICIENT ⭐   ║
 ║  [██████████] AWS (S3, Snowflake, Viz)  100% HANDS-ON ⭐     ║
 ║                                                              ║
-║  IN PROGRESS ⏳                                               ║
+║  INCHOATE ⏳                                                  ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  [██░░░░░░░░] Deep Learning             ~20% IN PROGRESS     ║
-║  [███░░░░░░░] Generative AI / GANs      ~25% IN PROGRESS     ║
-║  [██░░░░░░░░] NLP & Transformers        ~20% IN PROGRESS     ║
-║  [██░░░░░░░░] Computer Vision           ~15% IN PROGRESS     ║
+║  [██░░░░░░░░] Deep Learning             ~20% INCHOATE        ║
+║  [███░░░░░░░] Generative AI / GANs      ~25% INCHOATE        ║
+║  [██░░░░░░░░] NLP & Transformers        ~20% INCHOATE        ║
+║  [██░░░░░░░░] Computer Vision           ~15% INCHOATE        ║
 ║                                                              ║
-║  QUEUED 🔲                                                    ║
+║  IN EXSPECTO 🔲                                               ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  [░░░░░░░░░░] MLOps & CI/CD             0%  QUEUED           ║
-║  [░░░░░░░░░░] Apache Spark / Kafka      0%  QUEUED           ║
-║  [░░░░░░░░░░] Databricks / Snowflake    0%  QUEUED           ║
+║  [░░░░░░░░░░] MLOps & CI/CD             0%  IN EXSPECTO      ║
+║  [░░░░░░░░░░] Apache Spark / Kafka      0%  IN EXSPECTO      ║
+║  [░░░░░░░░░░] Databricks / Snowflake    0%  IN EXSPECTO      ║
 ║                                                              ║
-║  OVERALL ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ~45%    ║
+║  UNIVERSALIS ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ~45%    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -313,9 +313,9 @@ $ ./show_progress.sh --full
 
 ---
 
-## 🛠 `tech_stack --all`
+## 🛠 `technē_armamentarium --all`
 
-### 🔤 Languages & Frameworks
+### 🔤 Linguae & Compages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,mysql,flask&theme=dark"/>
@@ -336,7 +336,7 @@ $ ./show_progress.sh --full
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/n8n-Pro_Level-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/n8n-Preternatural-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/LangGraph-Proficient-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/LangChain-AI_Framework-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/Groq_API-LLM-00ff9c?style=for-the-badge&labelColor=0a0a0a"/>
@@ -375,7 +375,7 @@ $ ./show_progress.sh --full
 <img src="https://img.shields.io/badge/Data_Visualization-00ff9c?style=for-the-badge&logo=chartdotjs&logoColor=0a0a0a&labelColor=0a0a0a"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Instrumenta & Plataeae
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark"/>
@@ -393,30 +393,30 @@ $ ./show_progress.sh --full
 
 ---
 
-## 🚀 `projects --all`
+## 🚀 `congeries_operum --all`
 
 > Real systems. Real automation. Real impact.
 
 <div align="center">
 
-| 🏆 | Project | Description | Tech Stack | Status |
+| 🏆 | Opus | Descriptio | Tech Stack | Status |
 |:--:|:--------|:------------|:-----------|:------:|
-| 🔴 | **English-to-SQL + LLM Report + WhatsApp Delivery** | Natural language → auto SQL → LLM report → WhatsApp delivery. Full zero-touch analytics pipeline | n8n, LLM, SQL, WhatsApp API | ✅ Done |
-| 🔴 | **E-Commerce Web App + Analytics Dashboard** | Full e-commerce site with LLM-powered analytics tab, real-time KPIs, and MySQL backend | Flask, Python, MySQL, LLM API | ✅ Done |
-| 🔴 | **AWS S3 → Snowflake → Streamlit Pipeline** | End-to-end cloud data pipeline: S3 ingestion → Snowflake warehouse → live Streamlit dashboard | AWS S3, Snowflake, Streamlit | ✅ Done |
-| 🔴 | **Chicken Coccidiosis Detector — DL + MLOps** | CNN-based fecal image classifier (Coccidiosis/Healthy) with full MLOps: DVC, MLflow, Docker, CI/CD | PyTorch, MLflow, DVC, Docker | ✅ Done |
-| ⭐ | **AI + Humanizer LinkedIn Post Automator** | AI writes posts, humanizes content, attaches generated images, auto-publishes to LinkedIn | n8n, LLM, Image Gen, LinkedIn API | ✅ Done |
-| ⭐ | **WhatsApp Agent (Grok-3 / xAI)** | Conversational WhatsApp agent powered by Grok-3, built end-to-end in VS Code | Python, Grok API, WhatsApp | ✅ Done |
-| ⭐ | **AI Appointment Agent (WhatsApp)** | Fully autonomous appointment booking agent over WhatsApp | n8n, LLM, WhatsApp | ✅ Done |
-| 🔥 | **Review Analysis System** | Automated review scraping, sentiment analysis & reporting pipeline | n8n, LLM, Python | ✅ Done |
-| 🔥 | **AI Blog Generator → Email Delivery** | AI writes SEO blog posts and auto-sends to mailing list | n8n, LLM, Gmail API | ✅ Done |
-| 🔥 | **Lead Generation Engine** | Generated 50+ warm leads via smart WhatsApp outreach automation | n8n, WhatsApp API | ✅ Done |
-| 🔥 | **WhatsApp Messaging Web App** | Web app with contact form, instant WhatsApp delivery via Twilio + full message history dashboard | Python, Flask, Twilio | ✅ Done |
-| 💡 | **Python Interview Bot (Telegram)** | Automated Python interview Q&A bot with Groq API | n8n, Groq API, Telegram | ✅ Done |
-| 💡 | **WhatsApp Pharmacy Manager** | Full pharmacy management automation system | n8n, WhatsApp API | ✅ Done |
-| 💡 | **Gmail Auto Reply System** | Intelligent automated email response workflow | n8n, Gmail API | ✅ Done |
-| 💡 | **GitHub Daily Notes Automator** | n8n workflow that commits random notes.md files to GitHub daily | n8n, GitHub API | ✅ Done |
-| 📊 | **ML Models Collection** | Multiple ML algorithms & end-to-end implementations | Python, sklearn | ✅ Done |
+| 🔴 | **Anglicē-ad-SQL + LLM Relatio + WhatsApp Traditio** | Natural language → auto SQL → LLM report → WhatsApp delivery. Full zero-touch analytics pipeline | n8n, LLM, SQL, WhatsApp API | ✅ Consummated |
+| 🔴 | **E-Commerce Web App + Analytics Dashboard** | Full e-commerce site with LLM-powered analytics tab, real-time KPIs, and MySQL backend | Flask, Python, MySQL, LLM API | ✅ Consummated |
+| 🔴 | **AWS S3 → Snowflake → Streamlit Pipeline** | End-to-end cloud data pipeline: S3 ingestion → Snowflake warehouse → live Streamlit dashboard | AWS S3, Snowflake, Streamlit | ✅ Consummated |
+| 🔴 | **Chicken Coccidiosis Detector — DL + MLOps** | CNN-based fecal image classifier (Coccidiosis/Healthy) with full MLOps: DVC, MLflow, Docker, CI/CD | PyTorch, MLflow, DVC, Docker | ✅ Consummated |
+| ⭐ | **AI + Humanizer LinkedIn Post Automator** | AI writes posts, humanizes content, attaches generated images, auto-publishes to LinkedIn | n8n, LLM, Image Gen, LinkedIn API | ✅ Consummated |
+| ⭐ | **WhatsApp Agent (Grok-3 / xAI)** | Conversational WhatsApp agent powered by Grok-3, built end-to-end in VS Code | Python, Grok API, WhatsApp | ✅ Consummated |
+| ⭐ | **AI Appointment Agent (WhatsApp)** | Fully autonomous appointment booking agent over WhatsApp | n8n, LLM, WhatsApp | ✅ Consummated |
+| 🔥 | **Review Analysis System** | Automated review scraping, sentiment analysis & reporting pipeline | n8n, LLM, Python | ✅ Consummated |
+| 🔥 | **AI Blog Generator → Email Delivery** | AI writes SEO blog posts and auto-sends to mailing list | n8n, LLM, Gmail API | ✅ Consummated |
+| 🔥 | **Lead Generation Engine** | Generated 50+ warm leads via smart WhatsApp outreach automation | n8n, WhatsApp API | ✅ Consummated |
+| 🔥 | **WhatsApp Messaging Web App** | Web app with contact form, instant WhatsApp delivery via Twilio + full message history dashboard | Python, Flask, Twilio | ✅ Consummated |
+| 💡 | **Python Interview Bot (Telegram)** | Automated Python interview Q&A bot with Groq API | n8n, Groq API, Telegram | ✅ Consummated |
+| 💡 | **WhatsApp Pharmacy Manager** | Full pharmacy management automation system | n8n, WhatsApp API | ✅ Consummated |
+| 💡 | **Gmail Auto Reply System** | Intelligent automated email response workflow | n8n, Gmail API | ✅ Consummated |
+| 💡 | **GitHub Daily Notes Automator** | n8n workflow that commits random notes.md files to GitHub daily | n8n, GitHub API | ✅ Consummated |
+| 📊 | **ML Models Collection** | Multiple ML algorithms & end-to-end implementations | Python, sklearn | ✅ Consummated |
 | 🚀 | **Data Science Notes Repo** | Complete ML & DS structured learning notes | Jupyter, Python | 🚀 Active |
 | 🚀 | **Deep Learning Repository** | DL, NLP & CV implementations in progress | PyTorch, TF | 🚀 Active |
 
@@ -424,15 +424,14 @@ $ ./show_progress.sh --full
 
 </div>
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ---
 
-## 🧠 `roadmap --learning`
+## 🧠 `itinerarium --eruditio`
 
 <details>
-<summary><b>🔥 Deep Learning</b></summary>
+<summary><b>🔥 Profunda Eruditio</b></summary>
 
 - ANN · CNN · RNN · LSTM · Transformers
 - Backpropagation · Optimization Techniques
@@ -441,7 +440,7 @@ $ ./show_progress.sh --full
 </details>
 
 <details>
-<summary><b>👁 Computer Vision</b></summary>
+<summary><b>👁 Visio Computatralis</b></summary>
 
 - OpenCV · YOLO · Object Detection
 - Image Segmentation · Sports AI Projects
@@ -459,7 +458,7 @@ $ ./show_progress.sh --full
 </details>
 
 <details>
-<summary><b>🤖 Agentic AI — ✅ Pro Level</b></summary>
+<summary><b>🤖 Agentic AI — ✅ Preternatural</b></summary>
 
 - n8n · LangChain · LangGraph ← **Already Proficient**
 - Multi-Agent Systems · Tool Use · Memory
@@ -480,7 +479,7 @@ $ ./show_progress.sh --full
 </details>
 
 <details>
-<summary><b>📦 Big Data & Platforms (Queued)</b></summary>
+<summary><b>📦 Big Data & Platforms (In Exspecto)</b></summary>
 
 - Hadoop · MapReduce · Apache Hive · Apache Spark
 - Databricks · Snowflake
@@ -494,17 +493,17 @@ $ ./show_progress.sh --full
 
 ---
 
-## 🎯 `planned_projects --upcoming`
+## 🎯 `proposita_futura --ventura`
 
 <div align="center">
 
-| 🎯 Project | 🛠️ Technologies | Status |
+| 🎯 Opus | 🛠️ Technologiae | Status |
 |:-----------|:----------------|:------:|
-| **Handwritten Word Recognition** | CRNN (CNN + LSTM + CTC) | 🔲 Planned |
-| **Sports AI with Real-Time Tracking** | YOLO, OpenCV, CV | 🔲 Planned |
-| **Hand Gesture Recognition App** | Computer Vision, Deep Learning | 🔲 Planned |
-| **GAN Image Generator** | GANs, PyTorch | 🔲 Planned |
-| **Multi-Agent Research Assistant** | LangGraph, RAG, LLMs | 🔲 Planned |
+| **Handwritten Word Recognition** | CRNN (CNN + LSTM + CTC) | 🔲 In Exspecto |
+| **Sports AI with Real-Time Tracking** | YOLO, OpenCV, CV | 🔲 In Exspecto |
+| **Hand Gesture Recognition App** | Computer Vision, Deep Learning | 🔲 In Exspecto |
+| **GAN Image Generator** | GANs, PyTorch | 🔲 In Exspecto |
+| **Multi-Agent Research Assistant** | LangGraph, RAG, LLMs | 🔲 In Exspecto |
 
 </div>
 
@@ -512,7 +511,7 @@ $ ./show_progress.sh --full
 
 ---
 
-## 🎯 `future_goals.txt`
+## 🎯 `proposita_futura.txt`
 
 ```text
 → Become a Professional AI/ML Engineer
@@ -531,7 +530,7 @@ $ ./show_progress.sh --full
 
 ---
 
-## 📈 `stats --github`
+## 📈 `statisticae --github`
 
 <div align="center">
 
@@ -556,7 +555,7 @@ $ ./show_progress.sh --full
 
 ---
 
-## 📊 `activity_graph --days=31`
+## 📊 `actuositas_graph --days=31`
 
 <div align="center">
 
@@ -568,7 +567,7 @@ $ ./show_progress.sh --full
 
 ---
 
-## 🐍 `contribution_snake.py`
+## 🐍 `coluber_contributionis.py`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techakash32/techakash32/output/github-snake-dark.svg"/>
@@ -618,7 +617,7 @@ After adding, go to **Actions** tab → run the workflow manually once.
 
 ---
 
-## 🌐 `connect --social`
+## 🌐 `connexio --socialis`
 
 <div align="center">
 
@@ -651,7 +650,7 @@ After adding, go to **Actions** tab → run the workflow manually once.
 <div align="center">
 
 ```
-⚽ Football      |      🌍 Traveling      |      🚗 Cars      |      🎌 Anime
+⚽ Football      |      🌍 Peregrination      |      🚗 Cars      |      🎌 Anime
 ```
 
 <br/>
